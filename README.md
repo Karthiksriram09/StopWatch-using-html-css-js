@@ -35,12 +35,4 @@ You only need a web browser to run this project. Any modern browser will work.
 - **Start/Stop**: Click the "Start" button to begin the stopwatch. The button will change to "Stop". Click it again to stop the stopwatch.
 - **Reset**: Click the "Reset" button to reset the stopwatch to `00:00:00`.
 
-## Project Structure
-
-stopwatch
-│
-├── index.html
-├── styles.css
-├── script.js
-└── README.md
 
