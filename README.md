@@ -1,4 +1,4 @@
-# PRODIGY_WD_02
+# StopWatch-using-html-css-js
  A stopwatch using HTML, CSS, and JavaScript is a great project to learn and practice web development skills. Below is a simple example of how you can create a functional stopwatch.
 
 # Stopwatch Project
@@ -23,7 +23,7 @@ You only need a web browser to run this project. Any modern browser will work.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Karthiksriram09/PRODIGY_WD_02.git
+    git clone https://github.com/Karthiksriram09/StopWatch-using-html-css-js.git
     ```
    
 
